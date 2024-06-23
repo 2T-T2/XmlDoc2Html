@@ -26,3 +26,7 @@ XmlDoc2Html\style.css
 ```bat
 xmldoc2html hogedoc.xml /output:out
 ```
+# memo
+xmldoc2html.exe 配置ディレクトリにXmlDoc2Htmlフォルダが作成されます。
+xmldoc2html.exe 配置ディレクトリにXmlDoc2Html\style.cssファイルが作成されます。
+
