@@ -5,7 +5,8 @@ C#, VB などのドキュメントコメントの出力ファイル(xml)をhtml�
 ```bat
 build.bat release
 ```
-出力先 → out\release\XmlDoc2Html.exe
+環境変数Pathに csc.exe のあるディレクトリを追加<br>
+出力先 → out\release\XmlDoc2Html.exe<br>
 
 # 使用方法
 ```bat
@@ -27,6 +28,6 @@ XmlDoc2Html\style.css
 xmldoc2html hogedoc.xml /output:out
 ```
 # memo
-xmldoc2html.exe 配置ディレクトリにXmlDoc2Htmlフォルダが作成されます。
-xmldoc2html.exe 配置ディレクトリにXmlDoc2Html\style.cssファイルが作成されます。
+xmldoc2html.exe 配置ディレクトリにXmlDoc2Htmlフォルダが作成されます。<br>
+xmldoc2html.exe 配置ディレクトリにXmlDoc2Html\style.cssファイルが作成されます。<br>
 
