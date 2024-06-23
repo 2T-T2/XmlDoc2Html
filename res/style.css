@@ -1,0 +1,103 @@
+#heading2-summary{
+    text-decoration: underline;
+}
+#division-summary {
+    font-size: large;
+}
+#heading2-typeparam{
+    text-decoration: underline;
+}
+#table-typeparam{
+    border-collapse: collapse;
+}
+#table-typeparam td{
+    border: 1px solid black;
+    padding: 0.5rem;
+}
+#heading2-example{
+    text-decoration: underline;
+}
+#division-example{
+    font-size: large;
+}
+#heading2-constructor{
+    text-decoration: underline;
+}
+#table-constructor{
+    border-collapse: collapse;
+}
+#table-constructor td{
+    border: 1px solid black;
+    padding: 0.5rem;
+}
+#heading2-field{
+    text-decoration: underline;
+}
+#table-field{
+    border-collapse: collapse;
+}
+#table-field td{
+    border: 1px solid black;
+    padding: 0.5rem;
+}
+#heading2-properties{
+    text-decoration: underline;
+}
+#table-properties{
+    border-collapse: collapse;
+}
+#table-properties td{
+    border: 1px solid black;
+    padding: 0.5rem;
+}
+#heading2-method{
+    text-decoration: underline;
+}
+#table-method{
+    border-collapse: collapse;
+}
+#table-method td{
+    border: 1px solid black;
+    padding: 0.5rem;
+}
+#heading2-event{
+    text-decoration: underline;
+}
+#table-event{
+    border-collapse: collapse;
+}
+#table-event td{
+    border: 1px solid black;
+    padding: 0.5rem;
+}
+#heading3-remark {
+    padding-left: 0.5rem;
+}
+#division-remark {
+    padding-left: 1rem;
+}
+#heading2-parameter {
+    text-decoration: underline;
+}
+#table-parameter {
+    border-collapse: collapse;
+}
+#table-parameter  td{
+    border: 1px solid black;
+    padding: 0.5rem;
+}
+#heading2-type {
+    text-decoration: underline;
+}
+#table-type {
+    border-collapse: collapse;
+}
+#table-type  td{
+    border: 1px solid black;
+    padding: 0.5rem;
+}
+code {
+    background-color: #f8f8f8;
+    padding: 1rem;
+    display: block;
+}

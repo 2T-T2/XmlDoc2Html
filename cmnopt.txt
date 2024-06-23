@@ -1,0 +1,5 @@
+ /checked
+ /warnaserror
+ /target:exe
+ /res:res\style.css
+ /recurse:src\*.cs
